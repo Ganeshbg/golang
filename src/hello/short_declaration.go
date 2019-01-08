@@ -7,6 +7,6 @@ func main() {
 	fmt.Println(x)
 	x = x/2
 	fmt.Println(x)
-	y := "Mr.Bond"
-	fmt.Println(y)
+	y := 25.0
+	fmt.Printf("The value of y is %v",y)
 }
